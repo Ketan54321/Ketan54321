@@ -1,7 +1,7 @@
 [![MasterHead]( https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210317125205/Java-Backend-Development-%E2%80%93-Live-Course-By-GeeksforGeeks1.png​ )](https://ketanpavadshetty.io)
 <h1 align="center">Hi 👋, I'm Ketan Pavadshetty</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="coding" width="1000" height="250" src="https://th.bing.com/th/id/OIP.yw0TnheAGN-LPneDaTlaxwHaD8?rs=1&pid=ImgDetMain">
+<img align="right" alt="coding" width="1000" height="350" src="https://th.bing.com/th/id/OIP.yw0TnheAGN-LPneDaTlaxwHaD8?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketan54321&label=Profile%20views&color=0e75b6&style=flat" alt="ketan54321" /> </p>
 
